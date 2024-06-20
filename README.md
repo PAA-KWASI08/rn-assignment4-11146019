@@ -26,6 +26,11 @@ A screen that displays the user's name and email, a search bar, and sections for
 ### 4. JobCard
 A reusable component that displays details of a job, including the job title, company, salary, and location. This component is used by the `HomeScreen` to display both featured and popular job listings.
 
+
+![Login page](https://github.com/PAA-KWASI08/rn-assignment4-11146019/assets/170183141/2c25437a-15bb-4d25-8a56-7d42324b4ec8)
+![homescreen page](https://github.com/PAA-KWASI08/rn-assignment4-11146019/assets/170183141/e71b20b0-c55c-4491-b1c9-bc70a159cf8c)
+
+
 - **Props:**
   - `job`: An object containing job details (title, company, salary, location).
 
